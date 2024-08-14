@@ -6,14 +6,14 @@ I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for
 
 ## Skills 🛠️
 
-- **Go Backend**: 🚀 40%
+- **Go Backend**: 🚀 50%
 - **Python Backend**: 🐍 70%
 - **PHP Backend**: 💻 60%
 - **Flutter/Dart**: 🕊 75%
 - **Android**: 📲 40%
 - **Web Frontend**: 🎨 40%
 - **Mobile UI/UX**: 📱 50%
-- **Graphic Design**: ✏️ 20%
+- **Graphic Design**: ✏️ 25%
 - **Linux**: 🐧 45%
 - **Git**: 🔧 50%
 - **AI Engineering**: 🤖 5%
