@@ -6,6 +6,8 @@ I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for
 
 ## Skills 🛠️
 
+- **C/C++**: 5%
+- **OS/Kernel Dev**: 🐧 5%
 - **Go Backend**: 🚀 50%
 - **Python Backend**: 🐍 70%
 - **PHP Backend**: 💻 60%
@@ -18,7 +20,6 @@ I'm Otajonov, a versatile developer exploring various tech realms. Buckle up for
 - **Git**: 🔧 50%
 - **AI Engineering**: 🤖 5%
 - **Web3**: 🕸 5%
-- **C/C++**: 1%
 
 ## Activity 📆
 <picture>
